@@ -1,3 +1,3 @@
 # React-saaTiedot
 
-Udemy harjoitus
+Udemy harjoitus jossa käytetään Reactia sekä Reduxia
